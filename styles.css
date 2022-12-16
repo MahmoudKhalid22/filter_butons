@@ -268,3 +268,8 @@ Menu
     height: 150px;
   }
 }
+@media (max-width: 34em) {
+  section {
+    width: 33rem;
+  }
+}
